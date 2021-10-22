@@ -6,11 +6,14 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |+
+      # lorem ipsum
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Is simply dummy text of the printing and 
+      typesetting industry. Lorem Ipsum has been the industry's standard dummy
+       text ever since the 1500s, when an unknown printer took a galley of 
+      type and scrambled it to make a type specimen book. 
+
     actions:
       - title: See all items
         url: /store
