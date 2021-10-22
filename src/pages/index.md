@@ -6,14 +6,11 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: |+
+    content: |
       # lorem ipsum
 
-      Is simply dummy text of the printing and 
-      typesetting industry. Lorem Ipsum has been the industry's standard dummy
-       text ever since the 1500s, when an unknown printer took a galley of 
-      type and scrambled it to make a type specimen book. 
-
+      Is simply dummy text of the printing and
+      typesetting industry. Lorem Ipsum has
     actions:
       - title: See all items
         url: /store
